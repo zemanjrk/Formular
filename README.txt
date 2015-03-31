@@ -1,0 +1,1 @@
+Zadání páce bylo vytvoøit tøídu a vytvoøit k ní dokumentaci v PHP documentoru.
